@@ -1,0 +1,11 @@
+{
+    "serverlist_title": "Lista Serwerów",
+    "serverlist_refresh": "odśwież",
+
+    "serverlist_table_name": "Nazwa",
+    "serverlist_table_id": "ID",
+    "serverlist_table_action": "Akcje",
+
+    "serverlist_table_action_invite": "zaproś bota",
+    "serverlist_table_action_configure": "konfiguruj"
+}

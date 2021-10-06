@@ -1,0 +1,25 @@
+{
+    "instancelist_title": "Список Конфигурации",
+    "instancelist_button_create_new": "Создать новую Конфигурацию",
+    "instancelist_noInstances": "у вас нету ещё конфигурации.",
+
+    "instancelist_table_name": "Имя",
+    "instancelist_table_id": "ID",
+    "instancelist_table_status": "Статус",
+    "instancelist_table_setup": "Установить",
+    "instancelist_table_action": "Действия",
+
+    "instancelist_table_status_started": "ЗАПУЩЕНО",
+    "instancelist_table_status_stopped": "ОСТАНОВЛЕНО",
+
+    "instancelist_table_action_configure": "Изменить",
+    "instancelist_table_action_delete": "Удалить",
+
+    "errorbar_unkown": "не опознанная ошибка.",
+    "errorbar_instance_name": "не валидное имя конфигурации.",
+    "errorbar_invalid_id": "не валидный id конфигурации.",
+
+    "infobar_unkown": "не опознанная ошибка.",
+    "infobar_spamm": "пожалуйста не спамьте, у нас очень маленькие сервера :'(",
+    "infobar_max_instances": "извините но похоже вы достигли максимума конфигурации для данного сервера."
+}

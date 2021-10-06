@@ -1,0 +1,14 @@
+{
+    "actionbar_path_dashboard": "Dashboard",
+    "actionbar_path_main": "Main",
+    "actionbar_path_server": "Server",
+    "actionbar_path_instance": "Instance",
+    
+	"actionbar_botStatus": "Bot Status",
+	"actionbar_botStatus_offline": "OFFLINE",
+    "actionbar_botStatus_online": "ONLINE",
+
+    "actionbar_user_points": "Points",
+    "actionbar_user_Join_Support_Server": "Join our discord",
+    "actionbar_user_Disconnect": "Disconnect"
+}

@@ -1,0 +1,72 @@
+{
+    "instance_title": "Конфигурация",
+
+    "instance_config_name": "Имя конфигурации",
+    "instance_config_name_error": "Пожалуйста дайте своей конфигурации имя.",
+
+    "instance_config_channel": "Канал",
+    "instance_config_channel_refresh": "обновить",
+    "instance_config_channel_error": "Пожалуйста выберите канал.",
+
+    "instance_empty_value": "не выбрано",
+
+    "instance_config_host": "Хост",
+    "instance_config_host_error": "Пожалуйста введите что-то из следующего > ip/host.",
+
+    "instance_config_port": "Порт",
+    "instance_config_port_error": "Пожалуйста укажите порт сервера.",
+
+    "instance_config_game": "Игра",
+    "instance_config_game_requirements": "Игровые требования",
+    "instance_config_game_error": "Пожалуйста выберите канал.",
+
+    "instance_config_timezone": "Временная зона",
+    "instance_config_timeformat": "Формат временной зоны",
+
+    "instance_config_logo": "Ссылка на логотип",
+    "instance_config_logo_error": "Пожалуйста введите валидную ссылку.",
+    "instance_config_language": "Язык",
+
+    "instance_config_playerlist": "Список игроков включён.",
+    "instance_config_minimalmode": "Минимальный режим включён.",
+    "instance_config_embed_color": "Цвет вставки",
+
+    "instance_config_graph": "График включен.",
+    "instance_config_button_clear_graph": "Очистить данные графика",
+
+    "instance_option_start_instance": "Запустить Конфигурацию",
+    "instance_option_restart_instance": "Перезапустить Конфигурацию",
+    "instance_option_stop_instance": "Остановить Конфигурацию",
+
+    "instance_alert_error_unknown": "не опознанная ошибка.",
+    "instance_alert_error_send_message": "бот не смог отпавить сообщение :(",
+    "instance_alert_error_edit_message": "бот не смог изменить сообщение :(",
+    "instance_alert_error_emojis": "бот не смог установить реакцию (эмодзи) на сообщение.",
+
+    "instance_error_unknown": "не опознанная ошибка.",
+    "instance_error_invalid_channel": "не валидный id канала.",
+    "instance_error_invalid_host": "не валидный хост сервера.",
+    "instance_error_invalid_port": "не валидный порт сервера.",
+    "instance_error_invalid_game_type": "не валидный игровой режим.",
+    "instance_error_invalid_edit_error": "мы не смогли обновить конфигурацию, бот не отвечает.",
+    "instance_error_invalid_instance_name": "не валидное имя конфигурации.",
+    "instance_error_start": "мы не смогли запустить конфигурацию.",
+    "instance_error_stop": "мы не смогли остановить конфигурацию.",
+
+    "instance_error_set_instance_name": "установите имя для конфигурации сперва.",
+    "instance_error_set_instance_channel": "установите канал для конфигурации сперва.",
+    "instance_error_set_instance_host": "установите ip/host сперва.",
+    "instance_error_set_instance_port": "установите порт сперва.",
+    "instance_error_set_instance_game": "установите игровой режим сперва.",
+    "instance_error_set_instance_channel_alredy_used": "этот канал уже используется другой конфигурацией.",
+    "instance_error_invalid_logo_link": "не валидная ссылка на логотип.",
+    "instance_error_invalid_optional_config": "не валидный опциональный конфиг.",
+
+
+    "instance_success_unknown": "я не знаю что вы пытаетесь сделать но оно сработоло.",
+    "instance_success_config_set": "конфигурация сервера установлена успешно",
+
+    "instance_success_start": "конфигурация сервера запущена успешно",
+    "instance_success_stop": "конфигурация сервера приостановлена успешно",
+    "instance_success_cleared": "график сервера очищен успешно"
+}

@@ -1,0 +1,14 @@
+{
+    "actionbar_path_dashboard": "Панель",
+    "actionbar_path_main": "Главная",
+    "actionbar_path_server": "Сервер",
+    "actionbar_path_instance": "Формы",
+    
+	"actionbar_botStatus": "Статус Бота",
+	"actionbar_botStatus_offline": "ОФЛАЙНЕ",
+    "actionbar_botStatus_online": "ОНЛАЙНЕ",
+
+    "actionbar_user_points": "Очки",
+    "actionbar_user_Join_Support_Server": "Присоединитесь к дискорду",
+    "actionbar_user_Disconnect": "Отключиться"
+}

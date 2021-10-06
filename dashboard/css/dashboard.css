@@ -1,0 +1,24 @@
+.server-list-div {
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.list-label {
+    display: inline;
+}
+.list-refresh {
+    float: right
+}
+.guild-profile-pic {
+    width: 32px;
+    height: 32px;
+}
+.table thead th {
+    border-top:none;
+}
+
+table {
+    margin-top: 20px;
+}

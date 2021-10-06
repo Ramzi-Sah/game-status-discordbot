@@ -1,0 +1,15 @@
+{
+    "presentation_text_main": "Monitorea tu Servidor de Juegos en Discord",
+    "presentation_text_secondary": "mensajes de estado actualizados en tiempo real para tu Servidor ¡Soporta más de 250 juegos!",
+
+    "presentation_button_login": "Iniciar Sesión con Discord",
+    "presentation_button_invite": "Invitar a mi Servidor",
+    "presentation_button_upvote": "Votar en Top.gg",
+
+    "errorbar_unkown": "un error desconocido ha ocurrido.",
+    "errorbar_access_tocken": "no se pudo obtener el token de acceso de la API de Discord.",
+    "errorbar_discord_out": "no se pudieron obtener los datos de usuario de la API de Discord.",
+    "errorbar_need_login": "no estás conectado.",
+    "errorbar_discord_not_responding": "no se pudieron obtener los servidores de usuario de la API de Discord.",
+    "errorbar_serverinstance": "no se pudo registrar la instancia del servidor."
+}

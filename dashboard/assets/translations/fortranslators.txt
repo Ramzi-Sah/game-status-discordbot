@@ -1,0 +1,26 @@
+so here are the files to translate
+there is 6 json files
+**for exemple :** -----------------------------------------------------------------------------------
+```
+{
+    "instancelist_title": "Instances List",
+    "instancelist_button_create_new": "Create new Instance",
+    "instancelist_noInstances": "no instances yet.",
+}
+```
+this has to become like this
+```
+{
+    "instancelist_title": "some language text",
+    "instancelist_button_create_new": "some language text",
+    "instancelist_noInstances": "some language text",
+}
+```
+**and please try to:** -----------------------------------------------------------------------------------
+respect capital letters / lowercase letters 
+respect sentence length as possible
+if there is punctuation (, . : !) on default English please add them on your language
+you can be familiar / include jokes on your translation
+if you think i could improve English translation tell me
+-----------------------------------------------------------------------------------------------------------
+thanks for the help

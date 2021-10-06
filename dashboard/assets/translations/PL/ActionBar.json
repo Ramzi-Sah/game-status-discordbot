@@ -1,0 +1,14 @@
+{
+    "actionbar_path_dashboard": "Panel Sterowania",
+    "actionbar_path_main": "Strona Główna",
+    "actionbar_path_server": "Serwer",
+    "actionbar_path_instance": "Lista Konfiguracji",
+    
+	"actionbar_botStatus": "Status Botów",
+	"actionbar_botStatus_offline": "OFFLINE",
+    "actionbar_botStatus_online": "ONLINE",
+
+    "actionbar_user_points": "Punkty",
+    "actionbar_user_Join_Support_Server": "Dołącz do naszego Discorda",
+    "actionbar_user_Disconnect": "Wyloguj się"
+}

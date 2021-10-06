@@ -1,0 +1,72 @@
+{
+    "instance_title": "Instanz konfigurieren",
+
+    "instance_config_name": "Instanz Name",
+    "instance_config_name_error": "Gebe hier den Namen deiner Instanz an.",
+
+    "instance_config_channel": "Discord Channel",
+    "instance_config_channel_refresh": "Neuladen",
+    "instance_config_channel_error": "Wähle einen Channel aus.",
+
+    "instance_empty_value": "Channel",
+
+    "instance_config_host": "Adresse",
+    "instance_config_host_error": "Gebe hier deine IP / deinen Hostnamen von deinem Server an.",
+
+    "instance_config_port": "Port",
+    "instance_config_port_error": "Gebe hier den Port von deinem Server an.",
+
+    "instance_config_game": "Spiel",
+    "instance_config_game_requirements": "Wähle ein Spiel aus.",
+    "instance_config_game_error": "Wähle ein Spiel aus!",
+
+    "instance_config_timezone": "Zeitzone",
+    "instance_config_timeformat": "Zeitformat",
+
+    "instance_config_logo": "Link zum Logo",
+    "instance_config_logo_error": "Gebe eine Adresse zu deinem Logo an.",
+    "instance_config_language": "Sprache",
+
+    "instance_config_playerlist": "Spielerliste anzeigen",
+    "instance_config_minimalmode": "Kompakte Anzeige",
+    "instance_config_embed_color": "Farbe der Anzeige",
+
+    "instance_config_graph": "Grafik der Spieleranzahl anzeigen",
+    "instance_config_button_clear_graph": "Grafik zurücksetzen",
+
+    "instance_option_start_instance": "Instanz starten",
+    "instance_option_restart_instance": "Instanz neu starten",
+    "instance_option_stop_instance": "Instanz stoppen",
+
+    "instance_alert_error_unknown": "Es ist ein unbekannter Fehler aufgetreten",
+    "instance_alert_error_send_message": "Der Bot konnte keine Statusnachricht senden",
+    "instance_alert_error_edit_message": "Der Bot konnte die Statusnachricht nicht ändern",
+    "instance_alert_error_emojis": "Der Bot konnte nicht auf die Statusnachricht reagieren",
+
+    "instance_error_unknown": "Es ist ein unbekannter Fehler aufgetreten",
+    "instance_error_invalid_channel": "Falsche Channel ID",
+    "instance_error_invalid_host": "Falscher Server Host",
+    "instance_error_invalid_port": "Falscher Server Port",
+    "instance_error_invalid_game_type": "Falsches Spiel ausgewählt",
+    "instance_error_invalid_edit_error": "Instanz konnte nicht geändert werden, der Bot antwortet nicht",
+    "instance_error_invalid_instance_name": "Falscher Instanzname",
+    "instance_error_start": "Instanz konnte nicht gestartet werden",
+    "instance_error_stop": "Instanz konnte nicht gestartet werden",
+
+    "instance_error_set_instance_name": "Gebe deiner Instanz einen Namen.",
+    "instance_error_set_instance_channel": "Gebe bitte einen Channel an.",
+    "instance_error_set_instance_host": "Gebe bitte eine IP / einen Hostnamen an.",
+    "instance_error_set_instance_port": "Gebe bitte einen Post an.",
+    "instance_error_set_instance_game": "Wähle bitte ein Spiel aus.",
+    "instance_error_set_instance_channel_alredy_used": "Dieser Channel wird schon von einer anderen Instanz benutzt.",
+    "instance_error_invalid_logo_link": "Falscher Link zum Logo.",
+    "instance_error_invalid_optional_config": "Falsche Konfiguration.",
+
+
+    "instance_success_unknown": "Ich weiß nicht, was du versuchst, aber es ist ein Erfolg.",
+    "instance_success_config_set": "Konfiguration erfolgreich gespeichert.",
+
+    "instance_success_start": "Serverinstanz erfolgreich gestartet.",
+    "instance_success_stop": "Serverinstanz erfolgreich gestoppt.",
+    "instance_success_cleared": "Serverinstanzdiagramm erfolgreich gelöscht."
+}

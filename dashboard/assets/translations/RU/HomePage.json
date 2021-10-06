@@ -1,0 +1,15 @@
+{
+    "presentation_text_main": "Покажите свой игровой сервер в Discord",
+    "presentation_text_secondary": "постоянные обновленные сообщения о состоянии вашего игрового сервера, более 250 поддерживаемых игр !",
+
+    "presentation_button_login": "Войти с помощью Discord",
+    "presentation_button_invite": "Приглашение на мой сервер",
+    "presentation_button_upvote": "проголосуйте за нас в Top.gg",
+
+    "errorbar_unkown": "не опознанная ошибка.",
+    "errorbar_access_tocken": "мы не смогли получить access_token от discord api.",
+    "errorbar_discord_out": "мы не получил информацию о пользователе от discord api.",
+    "errorbar_need_login": "вы не подключены.",
+    "errorbar_discord_not_responding": "мы не получили информацию о серверах пользователя от discord api.",
+    "errorbar_serverinstance": "мы не нашли ни одной формы."
+}

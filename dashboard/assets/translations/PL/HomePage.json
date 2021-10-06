@@ -1,0 +1,15 @@
+{
+    "presentation_text_main": "Wyświetlaj swój serwer gry na Discord",
+    "presentation_text_secondary": "Zaktualizowane komunikaty o stanie twoich serwerów gier! Obsługujemy już ponad 250 gier!",
+
+    "presentation_button_login": "Zaloguj się przez Discord",
+    "presentation_button_invite": "Zaproś Bota na Serwer",
+    "presentation_button_upvote": "Zagłosuj na nas na Top.gg",
+
+    "errorbar_unkown": "wystąpił nieznany błąd.",
+    "errorbar_access_tocken": "Niestety nie możemy pobrać access_token z interfejsu API Discord.",
+    "errorbar_discord_out": "Niestety nie możemy pobrać danych użytkownika z interfejsu API Discord.",
+    "errorbar_need_login": "Niestert nie jesteś połączony z Discord.",
+    "errorbar_discord_not_responding": "Niestety nie można pobrać serwerów użytkownika z interfejsu API Discord",
+    "errorbar_serverinstance": "Niestety nie możemy zarejestrować konfiguracji serwera."
+}

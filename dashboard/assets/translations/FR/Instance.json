@@ -1,0 +1,73 @@
+{
+    "instance_title": "Configuration de l'instance",
+
+    "instance_config_name": "Nom de l'instance",
+    "instance_config_name_error": "Veuillez donner un nom à votre instance.",
+
+    "instance_config_channel": "Canal",
+    "instance_config_channel_refresh": "Rafraîchir",
+    "instance_config_channel_error": "Veuillez sélectionner vôtre Canal.",
+
+    "instance_empty_value": "Aucun",
+
+    "instance_config_host": "Ip",
+    "instance_config_host_error": "Veuillez définir l'adresse IP / l'hôte de votre serveur.",
+
+    "instance_config_port": "Port",
+    "instance_config_port_error": "Veuillez définir le port de votre serveur.",
+
+    "instance_config_game": "Jeu",
+    "instance_config_game_requirements": "Type de jeu demandé",
+    "instance_config_game_error": "Veuillez sélectionner vôtre jeu.",
+
+    "instance_config_timezone": "Fuseau horaire",
+    "instance_config_timeformat": "Format de l'heure",
+
+    "instance_config_logo": "Lien du logo",
+    "instance_config_logo_error": "Veuillez définir une URL valide.",
+    "instance_config_language": "Langue",
+
+    "instance_config_playerlist": "PlayerList activé.",
+    "instance_config_minimalmode": "Mode minimal activé.",
+    "instance_config_embed_color": "Couleur de l'instance",
+	
+    "instance_config_graph": "Graphique activé.",
+    "instance_config_button_clear_graph": "Effacer les données du graphique",
+
+    "instance_option_start_instance": "Démarrez l'instance",
+    "instance_option_restart_instance": "Redémarrez l'instance",
+    "instance_option_stop_instance": "Arrêter l'instance",
+
+
+    "instance_alert_error_unknown": "Une erreur inconnue s'est produite.",
+    "instance_alert_error_send_message": "Le bot n'a pas pu envoyer le message d'état :(",
+    "instance_alert_error_edit_message": "Le bot n'a pas pu modifier le message d'état :(",
+    "instance_alert_error_emojis": "le bot n'a pas pu réagir (emoji) au message.",
+
+    "instance_error_unknown": "Une erreur inconnue s'est produite.",
+    "instance_error_invalid_channel": "Identifiant de canal non valide.",
+    "instance_error_invalid_host": "Ip/Hôte de serveur non valide.",
+    "instance_error_invalid_port": "Port de serveur non valide.",
+    "instance_error_invalid_game_type": "Type de jeu non valide.",
+    "instance_error_invalid_edit_error": "N'a pas pu modifier l'instance, le bot ne répond pas.",
+    "instance_error_invalid_instance_name": "Nom d'instance non valide.",
+    "instance_error_start": "N'a pas pu démarrer l'instance.",
+    "instance_error_stop": "Impossible d'arrêter l'instance.",
+
+    "instance_error_set_instance_name": "Définir d'abord un nom d'instance.",
+    "instance_error_set_instance_channel": "Définir d'abord le canal d'instance.",
+    "instance_error_set_instance_host": "Définir d'abord l'adresse IP / l'hôte du serveur.",
+    "instance_error_set_instance_port": "Définir d'abord le port du serveur.",
+    "instance_error_set_instance_game": "Définir d'abord le type de jeu du serveur.",
+    "instance_error_set_instance_channel_alredy_used": "Ce canal est déjà utilisé par une autre instance.",
+    "instance_error_invalid_logo_link": "Lien de logo non valide.",
+    "instance_error_invalid_optional_config": "Configuration facultative invalide.",
+
+
+    "instance_success_unknown": "Je ne sais pas ce que vous essayez de faire mais c'est un succès.",
+    "instance_success_config_set": "Configuration de l'instance de serveur définie avec succès",
+
+    "instance_success_start": "L'instance de serveur a démarré avec succès.",
+    "instance_success_stop": "L'instance de serveur s'est arrêtée avec succès.",
+    "instance_success_cleared": "Le graphique d'instance du serveur a été effacé avec succès."
+}

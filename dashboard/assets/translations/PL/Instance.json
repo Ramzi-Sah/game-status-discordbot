@@ -1,0 +1,72 @@
+{
+    "instance_title": "Konfiguracja",
+
+    "instance_config_name": "Nazwa Konfiguracji",
+    "instance_config_name_error": "Nadaj nazwę swojej konfiguracji.",
+
+    "instance_config_channel": "Kanał",
+    "instance_config_channel_refresh": "odśwież",
+    "instance_config_channel_error": "Wybierz kanał.",
+
+    "instance_empty_value": "brak",
+
+    "instance_config_host": "Host",
+    "instance_config_host_error": "Ustaw adres IP / host swojego serwera.",
+
+    "instance_config_port": "Port",
+    "instance_config_port_error": "Ustaw port serwera.",
+
+    "instance_config_game": "Gra",
+    "instance_config_game_requirements": "Wymagania dotyczące rodzaju gry",
+    "instance_config_game_error": "Wybierz Grę twojego serwera.",
+
+    "instance_config_timezone": "Strefa Czasowa",
+    "instance_config_timeformat": "Format Czasu",
+
+    "instance_config_logo": "Logo Link",
+    "instance_config_logo_error": "Ustaw prawidłowy adres URL.",
+    "instance_config_language": "Język",
+
+    "instance_config_playerlist": "Lista Graczy (ON/OFF)",
+    "instance_config_minimalmode": "Tryb Minimialny (ON/OFF)",
+    "instance_config_embed_color": "Kolor Ramki",
+
+    "instance_config_graph": "Wykres Graczy (ON/OFF)",
+    "instance_config_button_clear_graph": "Wyczyść Dane Wykresu",
+
+    "instance_option_start_instance": "Uruchom Konfigurację",
+    "instance_option_restart_instance": "Uruchom Ponownie Konfigurację",
+    "instance_option_stop_instance": "Zatrzymaj Konfigurację",
+
+    "instance_alert_error_unknown": "wystąpił nieznany błąd.",
+    "instance_alert_error_send_message": "bot nie mógł wysłać komunikatu o statusie :(",
+    "instance_alert_error_edit_message": "bot nie mógł zedytować komunikatu o statusie :(",
+    "instance_alert_error_emojis": "bot nie mógł zareagować (ustawić emoji) komunikacie o statusie.",
+
+    "instance_error_unknown": "wystąpił nieznany błąd.",
+    "instance_error_invalid_channel": "nieprawidłowy identyfikator kanału.",
+    "instance_error_invalid_host": "nieprawidłowy host serwera.",
+    "instance_error_invalid_port": "nieprawidłowy port serwera.",
+    "instance_error_invalid_game_type": "nieprawidłowy typ gry",
+    "instance_error_invalid_edit_error": "nie można edytować konfiguracji ponieważ bot nie odpowiada.",
+    "instance_error_invalid_instance_name": "nieprawidłowa nazwa instancji.",
+    "instance_error_start": "nie można uruchomić konfiguracji.",
+    "instance_error_stop": "nie możemy zatrzymać konfiguracji.",
+
+    "instance_error_set_instance_name": "ustaw najpierw nazwę konfiguracji.",
+    "instance_error_set_instance_channel": "ustaw najpierw kanał konfiguracji.",
+    "instance_error_set_instance_host": "ustaw najpierw adres IP / host serwera.",
+    "instance_error_set_instance_port": "ustaw najpierw port serwera.",
+    "instance_error_set_instance_game": "najpierw ustaw typ gry serwera.",
+    "instance_error_set_instance_channel_alredy_used": "ten kanał jest już używany przez inną konfigurację.",
+    "instance_error_invalid_logo_link": "nieprawidłowy adres URL linku.",
+    "instance_error_invalid_optional_config": "nieprawidłowa konfiguracja opcjonalna.",
+
+
+    "instance_success_unknown": "nie wiem, co próbujesz zrobić, ale ci się to udało.",
+    "instance_success_config_set": "konfiguracja serwera została pomyślnie ustawiona",
+
+    "instance_success_start": "konfiguracja serwera została pomyślnie uruchomiona",
+    "instance_success_stop": "konfiguracja serwera została pomyślnie zatrzymana",
+    "instance_success_cleared": "wykres serwera został pomyślnie wyczyszczony"
+}

@@ -1,0 +1,17 @@
+{
+    "update_text": "Последние Обновление",
+
+    "server_label_name": "Название Сервера",
+    "server_label_direct_connect": "Прямое Подключение",
+    "server_label_game_mode": "Игровой режим",
+    "server_label_game_type": "Игра",
+    "server_label_status": "Статус",
+    "server_label_online_players": "Игроки онлайн",
+    "server_label_peak": "Пик игроков",
+    "server_label_map": "Карта",
+
+    "status_initiation": "Загрузка конфигурации",
+    "status_initiation_graph": "Загрузка конфигурации графики",
+    "status_online": "Сервер работает",
+    "status_offline": "Сервер выключен"
+}

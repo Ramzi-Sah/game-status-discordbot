@@ -1,0 +1,15 @@
+{
+    "presentation_text_main": "Visa din spelserver på Discord",
+    "presentation_text_secondary": "live uppdaterade statusmeddelanden finns för din spelserver, mer än 250 spel stöds !",
+
+    "presentation_button_login": "Logga in med Discord",
+    "presentation_button_invite": "Inbjudan till min Discord server",
+    "presentation_button_upvote": "rösta på Top.gg",
+
+    "errorbar_unkown": "Ett okänd fel uppstod",
+    "errorbar_access_tocken": "Kunde inte få access_token från discord ",
+    "errorbar_discord_out": "Kunde inte hämta användardata från discord API.",
+    "errorbar_need_login": "Du är inte ansluten.",
+    "errorbar_discord_not_responding": "Kunde inte hämta användarservrar från Discord API.",
+    "errorbar_serverinstance": "Kunde inte registrera serverinstansen."
+}

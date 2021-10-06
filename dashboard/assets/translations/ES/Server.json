@@ -1,0 +1,25 @@
+{
+    "instancelist_title": "Lista de Instancias",
+    "instancelist_button_create_new": "Crear nueva Instancia",
+    "instancelist_noInstances": "Aún no se han creado instancias.",
+
+    "instancelist_table_name": "Nombre",
+    "instancelist_table_id": "ID",
+    "instancelist_table_status": "Estado",
+    "instancelist_table_setup": "Inicializar",
+    "instancelist_table_action": "Acción",
+
+    "instancelist_table_status_started": "INICIADA",
+    "instancelist_table_status_stopped": "DETENIDA",
+
+    "instancelist_table_action_configure": "Configurar",
+    "instancelist_table_action_delete": "Eliminar",
+
+    "errorbar_unkown": "un error desconocido ha ocurrido.",
+    "errorbar_instance_name": "nombre de instancia inválido.",
+    "errorbar_invalid_id": "id de instancia inválido.",
+
+    "infobar_unkown": "un error desconocido ha ocurrido.",
+    "infobar_spamm": "por favor trata de no spamearnos ya que nuestros servidores se esfuerzan más de lo normal :'(",
+    "infobar_max_instances": "lo sentimos, has alcanzado el límite de instancias para este servidor."
+}

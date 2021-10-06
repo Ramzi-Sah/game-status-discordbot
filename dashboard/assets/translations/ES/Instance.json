@@ -1,0 +1,72 @@
+{
+    "instance_title": "Configuración de Instancia",
+
+    "instance_config_name": "Nombre de Instancia",
+    "instance_config_name_error": "Por favor, asigna un nombre a la instancia.",
+
+    "instance_config_channel": "Canal",
+    "instance_config_channel_refresh": "actualizar",
+    "instance_config_channel_error": "Por favor, selecciona un canal.",
+
+    "instance_empty_value": "ninguno",
+
+    "instance_config_host": "Servidor IP",
+    "instance_config_host_error": "Por favor, coloca la IP del servidor.",
+
+    "instance_config_port": "Puerto",
+    "instance_config_port_error": "Por favor, coloca el puerto del servidor.",
+
+    "instance_config_game": "Juego",
+    "instance_config_game_requirements": "Requisitos del Juego",
+    "instance_config_game_error": "Por favor, selecciona un canal.",
+
+    "instance_config_timezone": "Zona Horaria",
+    "instance_config_timeformat": "Formato de Hora",
+
+    "instance_config_logo": "Enlace del Logo",
+    "instance_config_logo_error": "Por favor, coloca una URL válida.",
+    "instance_config_language": "Idioma",
+
+    "instance_config_playerlist": "Activar Lista de Jugadores.",
+    "instance_config_minimalmode": "Activar Modo Mínimo",
+    "instance_config_embed_color": "Color del Insertado",
+
+    "instance_config_graph": "Activar Gráfica",
+    "instance_config_button_clear_graph": "Limpiar Información de Gráfica",
+
+    "instance_option_start_instance": "Iniciar Instancia",
+    "instance_option_restart_instance": "Reiniciar Instancia",
+    "instance_option_stop_instance": "Detener Instancia",
+
+    "instance_alert_error_unknown": "un error desconocido ha ocurrido.",
+    "instance_alert_error_send_message": "el bot no pudo enviar el mensaje de estado :(",
+    "instance_alert_error_edit_message": "el bot no pudo editar el mensaje de estado :(",
+    "instance_alert_error_emojis": "el bot no pudo reaccionar (colocar emojis) al mensaje de estado.",
+
+    "instance_error_unknown": "un error desconocido ha ocurrido.",
+    "instance_error_invalid_channel": "id de canal inválido.",
+    "instance_error_invalid_host": "dirección IP del servidor inválida.",
+    "instance_error_invalid_port": "puerto del servidor inválido.",
+    "instance_error_invalid_game_type": "juego inválido.",
+    "instance_error_invalid_edit_error": "no se pudo editar la instancia, el bot no responde.",
+    "instance_error_invalid_instance_name": "nombre de instancia inválido.",
+    "instance_error_start": "no se pudo iniciar la instancia.",
+    "instance_error_stop": "no se pudo detener la instancia.",
+
+    "instance_error_set_instance_name": "asegurate de haber colocado un nombre de instancia.",
+    "instance_error_set_instance_channel": "asegurate de haber seleccionado el canal de la instancia.",
+    "instance_error_set_instance_host": "asegurate de haber asignado la IP del servidor.",
+    "instance_error_set_instance_port": "asegurate de haber asignado el puerto del servidor.",
+    "instance_error_set_instance_game": "asegurate de haber seleccionado un juego.",
+    "instance_error_set_instance_channel_alredy_used": "este canal ya esta siendo utilizado por otra instancia.",
+    "instance_error_invalid_logo_link": "enlace del logo inválido.",
+    "instance_error_invalid_optional_config": "configuración opcional inválida.",
+
+
+    "instance_success_unknown": "no sabemos lo que has intentado hacer pero de cualquier forma ha salido bien.",
+    "instance_success_config_set": "configuración de la instancia del servidor establecida correctamente.",
+
+    "instance_success_start": "instancia del servidor inicializada exitosamente",
+    "instance_success_stop": "instancia del servidor detenida exitosamente",
+    "instance_success_cleared": "gráfica de la instancia del servidor limpiada exitosamente"
+}

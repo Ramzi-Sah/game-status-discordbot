@@ -1,0 +1,17 @@
+{
+    "update_text": "Ultimo Aggiornamento",
+
+    "server_label_name": "Nome Server",
+    "server_label_direct_connect": "IP Server",
+    "server_label_game_mode": "ModalitĂ",
+    "server_label_game_type": "Gioco",
+    "server_label_status": "Status",
+    "server_label_online_players": "Players Online",
+    "server_label_peak": "Picco dei Players",
+    "server_label_map": "Mappa",
+
+    "status_initiation": "Istanza in avvio...",
+    "status_initiation_graph": "Grafico dell'istanza in avvio...",
+    "status_online": "Server Online",
+    "status_offline": "Server Offline"
+}

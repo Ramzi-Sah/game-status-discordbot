@@ -1,0 +1,25 @@
+{
+    "instancelist_title": "Instances Listan",
+    "instancelist_button_create_new": "Skapa ny Instance",
+    "instancelist_noInstances": "inga  instances ännu.",
+
+    "instancelist_table_name": "Namn",
+    "instancelist_table_id": "ID",
+    "instancelist_table_status": "Status",
+    "instancelist_table_setup": "Uppstart",
+    "instancelist_table_action": "Handling",
+
+    "instancelist_table_status_started": "STARTAT",
+    "instancelist_table_status_stopped": "STOPPAD",
+
+    "instancelist_table_action_configure": "Konfigurera",
+    "instancelist_table_action_delete": "Radera",
+
+    "errorbar_unkown": "Ett okänt fel uppstod.",
+    "errorbar_instance_name": "Ogiltig instance namn.",
+    "errorbar_invalid_id": "Ogiltig instance id.",
+
+    "infobar_unkown": "Ett okänt fel uppstod.",
+    "infobar_spamm": "Snälla skicks inte spam, vi har väldigt små servrar :'(",
+    "infobar_max_instances": "Tyvärr, det varkar som att du har nått dig maximala antal instander för den här servern."
+}

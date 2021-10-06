@@ -1,0 +1,17 @@
+{
+    "update_text": "Letztes Update",
+
+    "server_label_name": "Servername",
+    "server_label_direct_connect": "Direkt verbinden",
+    "server_label_game_mode": "Gamemode",
+    "server_label_game_type": "Spiel",
+    "server_label_status": "Status",
+    "server_label_online_players": "Spieler online",
+    "server_label_peak": "Spieler maximum",
+    "server_label_map": "Welt",
+
+    "status_initiation": "Status wird gestartet",
+    "status_initiation_graph": "Grafik wird geladen",
+    "status_online": "Online",
+    "status_offline": "Offline"
+}

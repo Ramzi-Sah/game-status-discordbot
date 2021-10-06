@@ -1,0 +1,14 @@
+{
+    "actionbar_path_dashboard": "Pannello di Controllo",
+    "actionbar_path_main": "Principale",
+    "actionbar_path_server": "Server",
+    "actionbar_path_instance": "Instanza",
+    
+	"actionbar_botStatus": "Status del Bot",
+	"actionbar_botStatus_offline": "OFFLINE",
+    "actionbar_botStatus_online": "ONLINE",
+
+    "actionbar_user_points": "Punti",
+    "actionbar_user_Join_Support_Server": "Entra nel nostro canale Discord",
+    "actionbar_user_Disconnect": "Logout"
+}

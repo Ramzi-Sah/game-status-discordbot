@@ -1,0 +1,73 @@
+{
+    "instance_title": "Instance Konfiguration",
+
+    "instance_config_name": "Instance Namn",
+    "instance_config_name_error": "Vänligen ge din instance ett namn.",
+
+    "instance_config_channel": "Kanal",
+    "instance_config_channel_refresh": "uppdatera",
+    "instance_config_channel_error": "Välj en kanal.",
+
+    "instance_empty_value": "ingen",
+
+    "instance_config_host": "Host",
+    "instance_config_host_error": "Ställ in serverns ip / host",
+
+    "instance_config_port": "Port",
+    "instance_config_port_error": "Ställ in serverns port.",
+
+    "instance_config_game": "Spel",
+    "instance_config_game_requirements": "Speltypskrav",
+    "instance_config_game_error": "Välj en kanal",
+
+    "instance_config_timezone": "Tidszon",
+    "instance_config_timeformat": "Tidsformat",
+
+    "instance_config_logo": "Logo Länk",
+    "instance_config_logo_error": "Ange en giltig webbadress",
+    "instance_config_language": "Språk",
+
+    "instance_config_playerlist": "Spelarlistan aktiverad.",
+    "instance_config_minimalmode": "Minimalt läge aktiverad.",
+    "instance_config_embed_color": "Bädda in färg",
+
+    "instance_config_graph": "Graf aktiverad.",
+    "instance_config_button_clear_graph": "Rensa grafdata",
+
+    "instance_option_start_instance": "Starta Instance",
+    "instance_option_restart_instance": "Uppdatera Instance",
+    "instance_option_stop_instance": "Stoppa Instance",
+
+
+    "instance_alert_error_unknown": "Ett okänt fel uppstod.",
+    "instance_alert_error_send_message": "Botten kunde inte skicka statusmeddelandet :(",
+    "instance_alert_error_edit_message": "Botten kunde inte redigera statusmeddelandet :(",
+    "instance_alert_error_emojis": "the bot couldn't react (set an emojy) to the status message.",
+
+    "instance_error_unknown": "Ett okänt fel uppstod.",
+    "instance_error_invalid_channel": "Ogiltigt kanal-id.",
+    "instance_error_invalid_host": "Ogiltig server host.",
+    "instance_error_invalid_port": "Ogiltig server port.",
+    "instance_error_invalid_game_type": "Ogiltig speltyp.",
+    "instance_error_invalid_edit_error": "Kunde inte redigera förekomsten, boten svarar inte.",
+    "instance_error_invalid_instance_name": "Ogiltig instance namn.",
+    "instance_error_start": "Kunde inte starta instance.",
+    "instance_error_stop": "Kunde inte stoppa instancen.",
+
+    "instance_error_set_instance_name": "Ange ett instance namn först.",
+    "instance_error_set_instance_channel": "Ställ in instance kanal först.",
+    "instance_error_set_instance_host": "Ställ in serverns ip/host först.",
+    "instance_error_set_instance_port": "Ställ in serverns port först.",
+    "instance_error_set_instance_game": "Ställ in serverns speltyp först.",
+    "instance_error_set_instance_channel_alredy_used": "Den här kanalen används redan av en annan instance.",
+    "instance_error_invalid_logo_link": "Ogiltig logo länk.",
+    "instance_error_invalid_optional_config": "Ogiltig valfri konfiguration.",
+
+
+    "instance_success_unknown": "Jag vet inte vad du försöker att göra men det är en framgång.",
+    "instance_success_config_set": "Server konfigurationen lyckades!",
+
+    "instance_success_start": "Server instance startades!",
+    "instance_success_stop": "Sever instance stoppades",
+    "instance_success_cleared": "Server instance diagram rensades"
+}

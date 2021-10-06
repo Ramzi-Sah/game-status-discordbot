@@ -1,0 +1,23 @@
+{
+	"discordBotToken" : "",
+    "botPerfix" : "gs!",
+    "nbrShards" : 1,
+    
+    "db_hostname" : "localhost",
+    "db_port" : 3306,
+	"db_name" : "serverstatusbot",
+	"db_Username" : "ServerStatusDashboard",
+	"db_Password" : "12345678",
+
+	"APIPort": 2727,
+
+	"statusUpdateTime": 10,
+	"statusQueryTime": 10,
+	"graphUpdateTime": 10,
+
+	"graphsFolder": "/htdocs/web/StatusBot/graph",
+	"graphsLink": "http://localhost/web/StatusBot/graph",
+
+	"upvotesChannel": "784121853558915072",
+	"donationChannel": "826804021410005022"
+}

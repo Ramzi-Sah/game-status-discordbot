@@ -1,0 +1,28 @@
+.main-div {
+    padding: 30px;
+}
+
+.instance-action-form {
+    display: inline-block;
+}
+
+.required-div {
+    /* padding: 30px; */
+    /* background-color: rgb(255, 140, 163); */
+}
+.optional-div {
+    /* padding: 30px;
+    background-color: rgb(140, 194, 255); */
+}
+
+.config-div {
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    background-color: white;
+}
+.options-div {
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+}

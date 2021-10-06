@@ -1,0 +1,15 @@
+{
+    "presentation_text_main": "Display your game server on Discord",
+    "presentation_text_secondary": "live updated status messages for your game server, more then 250 games supported !",
+
+    "presentation_button_login": "Log In with Discord",
+    "presentation_button_invite": "Invite to my Server",
+    "presentation_button_upvote": "upVote on Top.gg",
+
+    "errorbar_unkown": "an unknown error occured.",
+    "errorbar_access_tocken": "could not get the access_token from the discord api.",
+    "errorbar_discord_out": "could not get user data from the discord api.",
+    "errorbar_need_login": "you are not connected.",
+    "errorbar_discord_not_responding": "could not get user servers from the discord api.",
+    "errorbar_serverinstance": "could not register server instance."
+}

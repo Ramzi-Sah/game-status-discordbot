@@ -1,0 +1,102 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    padding: 0px;
+    margin: 0px;
+    /* background-color: #2a2e39; */
+    background-color: #26242d;
+    /* box-shadow: 0 0 200px rgba(0,0,0,0.9) inset; */
+    overflow-x: hidden;
+}
+
+.errorBar {
+    color: white;
+    background-color: firebrick;
+
+    padding: 10px;
+    text-align: center;
+}
+.infoBar {
+    color: white;
+    background-color: #3179e6;
+
+    padding: 10px;
+    text-align: center;
+}
+.successBar {
+    color: white;
+    background-color: #27af50;
+
+    padding: 10px;
+    text-align: center;
+}
+
+.line-horizontal {
+    height: 1px;
+    margin-top: 10px;
+
+    background-color: #e2e2e2;
+}
+
+
+#particles-js canvas{
+    width: 100% !important;
+    height: 100% !important;
+    overflow: hidden;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: fixed;
+    z-index: -1;
+    top: 0; right: 0; bottom: 0; left: 0;
+}
+
+
+
+@media 
+only screen and (max-width: 770px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+/* Force table to not be like tables anymore */
+table, thead, tbody, th, td, tr { 
+    display: block; 
+}
+
+/* Hide table headers (but not display: none;, for accessibility) */
+thead tr { 
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
+tr { border: 1px solid #ccc; }
+
+td { 
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee; 
+    position: relative;
+    padding-left: 50%; 
+}
+
+td:before { 
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%; 
+    padding-right: 10px; 
+    white-space: nowrap;
+}
+
+/*
+Label the data
+*/
+/* td:nth-of-type(1):before { content: ""; }
+td:nth-of-type(2):before { content: "Name"; }
+td:nth-of-type(3):before { content: "Id"; }
+td:nth-of-type(4):before { content: "Action"; } */
+}

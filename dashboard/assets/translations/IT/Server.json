@@ -1,0 +1,25 @@
+{
+    "instancelist_title": "Lista delle istanze",
+    "instancelist_button_create_new": "Crea una nuova istanza",
+    "instancelist_noInstances": "Ancora nessuna istanza.",
+
+    "instancelist_table_name": "Nome",
+    "instancelist_table_id": "ID",
+    "instancelist_table_status": "Status",
+    "instancelist_table_setup": "Impostazioni",
+    "instancelist_table_action": "Azioni",
+
+    "instancelist_table_status_started": "AVVIATO",
+    "instancelist_table_status_stopped": "NON ATTIVO",
+
+    "instancelist_table_action_configure": "Configura",
+    "instancelist_table_action_delete": "Elimina",
+
+    "errorbar_unkown": "si è verificato un errore sconosciuto.",
+    "errorbar_instance_name": "Nome dell'istanza non valido.",
+    "errorbar_invalid_id": "id dell'istanza non valido.",
+
+    "infobar_unkown": "si è verificato un errore sconosciuto.",
+    "infobar_spamm": "Per favore, non spammare, abbiamo un server piccolo :'(",
+    "infobar_max_instances": "Scusa, sembra che tu abbia raggiunto il numero massimo di istanze per questo server."
+}

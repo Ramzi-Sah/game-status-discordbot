@@ -1,0 +1,11 @@
+{
+    "serverlist_title": "Serverlista",
+    "serverlist_refresh": "Uppdatera",
+
+    "serverlist_table_name": "Namn",
+    "serverlist_table_id": "ID",
+    "serverlist_table_action": "Handling",
+
+    "serverlist_table_action_invite": "bjuda in botten",
+    "serverlist_table_action_configure": "konfigurera"
+}

@@ -1,0 +1,14 @@
+{
+    "actionbar_path_dashboard": "Insturmentbräda",
+    "actionbar_path_main": "Huvudsaklig",
+    "actionbar_path_server": "Server",
+    "actionbar_path_instance": "Instance",
+
+    "actionbar_botStatus": "Bot Status",
+    "actionbar_botStatus_offline": "Inte ansluten",
+    "actionbar_botStatus_online": "Ansluten",
+
+    "actionbar_user_points": "Poäng",
+    "actionbar_user_Join_Support_Server": "gå med i våran discord",
+    "actionbar_user_Disconnect": "Koppla ifrån"
+}

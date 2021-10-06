@@ -1,0 +1,17 @@
+{
+    "update_text": "Uppdaterad idag klockan",
+
+    "server_label_name": "Server Namn",
+    "server_label_direct_connect": "Direkt Anslutning",
+    "server_label_game_mode": "Spelläge",
+    "server_label_game_type": "Spel",
+    "server_label_status": "Status",
+    "server_label_online_players": "Onlinespelare",
+    "server_label_peak": "Spelaregenomsnitt",
+    "server_label_map": "Karta",
+
+    "status_initiation": "Startar instance",
+    "status_initiation_graph": "Startar Graf instance",
+    "status_online": "Online",
+    "status_offline": "Server Offline"
+}

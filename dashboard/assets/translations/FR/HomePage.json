@@ -1,0 +1,15 @@
+{
+    "presentation_text_main": "Affichez votre serveur de jeu sur Discord",
+    "presentation_text_secondary": "Message d'état mis à jour en direct pour votre serveur de jeu, plus de 250 jeux pris en charge !",
+
+    "presentation_button_login": "Connectez-vous avec Discord",
+    "presentation_button_invite": "Inviter sur mon serveur",
+    "presentation_button_upvote": "Votez sur Top.gg",
+
+    "errorbar_unkown": "Une erreur inconnue est survenue.",
+    "errorbar_access_tocken": "Impossible d'obtenir le access_token de l'API Discord.",
+    "errorbar_discord_out": "N'a pas pu obtenir les données utilisateur de l'API Discord.",
+    "errorbar_need_login": "Vous n'êtes pas connecté.",
+    "errorbar_discord_not_responding": "N'a pas pu obtenir les serveurs d'utilisateurs de l'api discord.",
+    "errorbar_serverinstance": "N'a pas pu enregistrer l'instance de serveur."
+}

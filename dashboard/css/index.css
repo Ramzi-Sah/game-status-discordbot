@@ -1,0 +1,56 @@
+.main-div {
+
+}
+
+.center-inRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}
+.presantation-text {
+    color: #fff;
+    margin: 10px;
+}
+.presantation-bot-avatar {
+    height: 64px;
+    width: 64px;
+}
+.presantation-mini-text {
+    color: #fff;
+    font-size: 20;
+    margin-bottom: 20px;
+}
+.presantation-bot-text-row {
+    margin: 150px 0px 10px 0px;
+}
+.presantation-text-row {
+    margin: 20px;
+}
+.presantation-btns-row {
+    margin-bottom: 50px;
+}
+
+
+.btn-outline-primary {
+    color: #7289da !important;
+    border-color: #7289da !important;
+}
+
+.btn-outline-primary:hover, .btn-outline-primary:active, .btn-outline-primary:visited {
+    color: #fff !important;
+    background-color: #7289da !important;
+}
+
+
+.btn-outline-secondary {
+    border-radius: 2px;
+    color: #334dad;
+    background: white;
+}
+
+.btn-outline-secondary:hover, .btn-outline-secondary:active, .btn-outline-secondary:visited {
+    color: #fff !important;
+    background-color: #9e9eca !important;
+}

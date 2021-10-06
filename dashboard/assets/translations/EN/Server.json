@@ -1,0 +1,25 @@
+{
+    "instancelist_title": "Instances List",
+    "instancelist_button_create_new": "Create new Instance",
+    "instancelist_noInstances": "no instances yet.",
+
+    "instancelist_table_name": "Name",
+    "instancelist_table_id": "ID",
+    "instancelist_table_status": "Status",
+    "instancelist_table_setup": "Set Up",
+    "instancelist_table_action": "Action",
+
+    "instancelist_table_status_started": "STARTED",
+    "instancelist_table_status_stopped": "STOPPED",
+
+    "instancelist_table_action_configure": "Configure",
+    "instancelist_table_action_delete": "Delete",
+
+    "errorbar_unkown": "an unknown error occured.",
+    "errorbar_instance_name": "Invalid instance name.",
+    "errorbar_invalid_id": "Invalid instance id.",
+
+    "infobar_unkown": "An unknown error occured.",
+    "infobar_spamm": "Please do not spam us, we have very small servers :'(",
+    "infobar_max_instances": "Sorry, it seems like you have reached your maximum number of instances for this server."
+}

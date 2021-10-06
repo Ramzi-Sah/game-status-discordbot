@@ -1,0 +1,39 @@
+.main-div {
+    padding: 30px;
+}
+
+.instance-server-div {
+    float: right;
+}
+
+.server-level-div {
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.instance-action-form {
+    display: inline-block;
+}
+
+
+.instance-list-div {
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    background-color: white;
+}
+.list-label {
+    display: inline;
+}
+.guild-profile-pic {
+    width: 32px;
+    height: 32px;
+}
+.table thead th {
+    border-top:none;
+}
+
+table {
+    margin-top: 20px;
+}

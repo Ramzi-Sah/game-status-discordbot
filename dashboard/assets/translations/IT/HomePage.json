@@ -1,0 +1,15 @@
+{
+    "presentation_text_main": "Mostra lo stato del tuo server su Discord",
+    "presentation_text_secondary": "messaggi di stato in tempo reale per il tuo server, più di 250 giochi supportati!",
+
+    "presentation_button_login": "Entra con Discord",
+    "presentation_button_invite": "Invita il bot nel tuo Server",
+    "presentation_button_upvote": "Vota il bot su Top.gg",
+
+    "errorbar_unkown": "si è verificato un errore sconosciuto.",
+    "errorbar_access_tocken": "non è stato possibile ottenere il token di accesso dall'API di Discord.",
+    "errorbar_discord_out": "non è stato possibile ottenere i dati dell'utente dall'API di Discord.",
+    "errorbar_need_login": "non sei connesso.",
+    "errorbar_discord_not_responding": "non è stato possibile ottenere i server dell'utente dall'API di Discord.",
+    "errorbar_serverinstance": "non è stato possibile registrare un istanza."
+}

@@ -1,0 +1,25 @@
+{
+    "instancelist_title": "Liste des instances",
+    "instancelist_button_create_new": "Créer une nouvelle instance",
+    "instancelist_noInstances": "Pas encore d'instances.",
+
+    "instancelist_table_name": "Nom",
+    "instancelist_table_id": "ID",
+    "instancelist_table_status": "Statu",
+    "instancelist_table_setup": "Installer",
+    "instancelist_table_action": "Action",
+
+    "instancelist_table_status_started": "DÉMARRÉ",
+    "instancelist_table_status_stopped": "ARRÊTÉ",
+
+    "instancelist_table_action_configure": "Configurer",
+    "instancelist_table_action_delete": "Supprimer",
+
+    "errorbar_unkown": "Une erreur inconnue s'est produite.",
+    "errorbar_instance_name": "Nom d'instance non valide.",
+    "errorbar_invalid_id": "Identifiant d'instance non valide.",
+
+    "infobar_unkown": "Une erreur inconnue s'est produite.",
+    "infobar_spamm": "Veuillez ne pas nous envoyer de spam, nous avons de très petits serveurs :'(",
+    "infobar_max_instances": "Désolé, il semble que vous ayez atteint votre nombre maximal d'instances pour ce serveur."
+}

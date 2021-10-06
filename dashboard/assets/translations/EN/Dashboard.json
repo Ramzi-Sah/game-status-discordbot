@@ -1,0 +1,11 @@
+{
+    "serverlist_title": "Server List",
+    "serverlist_refresh": "refresh",
+
+    "serverlist_table_name": "Name",
+    "serverlist_table_id": "ID",
+    "serverlist_table_action": "Action",
+
+    "serverlist_table_action_invite": "invite the bot",
+    "serverlist_table_action_configure": "configure"
+}

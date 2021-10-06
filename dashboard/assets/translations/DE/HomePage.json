@@ -1,0 +1,15 @@
+{
+    "presentation_text_main": "Server-Status für Discord",
+    "presentation_text_secondary": "Live Updates für deine(n) Gameserver, für mehr als 250 Spiele!",
+
+    "presentation_button_login": "Login mit Discord",
+    "presentation_button_invite": "Bot zu Discord hinzufügen",
+    "presentation_button_upvote": "Vote auf Top.gg",
+
+    "errorbar_unkown": "Ein unbekannter Fehler ist aufgetreten.",
+    "errorbar_access_tocken": "Es kann nicht auf den access_token von der Discord API zugegriffen werden.",
+    "errorbar_discord_out": "Fehler beim Zugriff auf die User Data von der Discord API.",
+    "errorbar_need_login": "Du bist nicht verbunden.",
+    "errorbar_discord_not_responding": "Fehler beim Zugriff auf die User Server von der Discord API.",
+    "errorbar_serverinstance": "Fehler beim Zugriff auf die Server Instanz."
+}

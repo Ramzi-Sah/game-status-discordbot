@@ -1,0 +1,11 @@
+{
+    "serverlist_title": "Список серверов",
+    "serverlist_refresh": "обновить",
+
+    "serverlist_table_name": "Имя",
+    "serverlist_table_id": "ID",
+    "serverlist_table_action": "Действие",
+
+    "serverlist_table_action_invite": "пригласить бота",
+    "serverlist_table_action_configure": "конфигурировать"
+}

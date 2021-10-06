@@ -1,0 +1,25 @@
+{
+    "instancelist_title": "Lista Konfiguracji",
+    "instancelist_button_create_new": "Stwórz Nową Konfigurację",
+    "instancelist_noInstances": "brak kofiguracji.",
+
+    "instancelist_table_name": "Nazwa",
+    "instancelist_table_id": "ID",
+    "instancelist_table_status": "Status",
+    "instancelist_table_setup": "Ustawienia",
+    "instancelist_table_action": "Akcje",
+
+    "instancelist_table_status_started": "URUCHOMIONO",
+    "instancelist_table_status_stopped": "ZATRZYMANO",
+
+    "instancelist_table_action_configure": "Konfiguruj",
+    "instancelist_table_action_delete": "Usuń",
+
+    "errorbar_unkown": "wystąpił nieznany błąd.",
+    "errorbar_instance_name": "nieprawidłowa nazwa konfiguracji.",
+    "errorbar_invalid_id": "nieprawidłowy identyfikator konfiguracji.",
+
+    "infobar_unkown": "wystąpił nieznany błąd.",
+    "infobar_spamm": "proszę, nie spamuj nas, mamy bardzo mało serwerów :'(",
+    "infobar_max_instances": "Przepraszamy, wygląda na to, że osiągnąłeś maksymalną liczbę konfiguracji dla tego serwera."
+}

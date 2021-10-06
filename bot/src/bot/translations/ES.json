@@ -1,0 +1,17 @@
+{
+    "update_text": "Ultima Actualización",
+
+    "server_label_name": "Nombre del Servidor",
+    "server_label_direct_connect": "Dirección IP/Puerto",
+    "server_label_game_mode": "Tipo de Juego",
+    "server_label_game_type": "Juego",
+    "server_label_status": "Estado",
+    "server_label_online_players": "Jugadores Conectados",
+    "server_label_peak": "Pico de Jugadores",
+    "server_label_map": "Mapa",
+
+    "status_initiation": "Inicializando Instancia",
+    "status_initiation_graph": "Inicializando Gráfica de la Instancia",
+    "status_online": "En Linea",
+    "status_offline": "Servidor Desconectado"
+}

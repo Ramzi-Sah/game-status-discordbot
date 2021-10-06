@@ -1,0 +1,56 @@
+.payments-list-div {
+    padding: 30px;
+    border-radius: 0 0 20px 20px;
+    background-color: white;
+
+    margin-top: 50px;
+}
+
+.payment-card {
+    cursor: pointer;
+}
+.payment-card:hover {
+    background-color: royalblue;
+}
+
+.card:hover{
+    transition: 0.2s;
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+
+
+.donate-list-div {
+    padding: 30px;
+    border-radius: 20px;
+    background-color: white;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    text-align: center;
+}
+
+.link-paypal-btn {
+    background-color: #0070BA;
+    color: white;
+
+    border-radius: 50px;
+    size: 16px;
+
+
+    padding: 6px 24px 6px 24px;
+    /* line-spacing: 24px; */
+}
+.link-paypal-btn:hover {
+    color: white;
+    background-color: #085f99;
+}
+.custom-donation-input {
+    max-width: 200px;
+    display:initial !important;
+}
+.donation-ammount-button {
+    margin: 15px 5px 15px 5px;
+}

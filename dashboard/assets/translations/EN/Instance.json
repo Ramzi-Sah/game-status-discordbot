@@ -1,0 +1,72 @@
+{
+    "instance_title": "Instance Configuration",
+
+    "instance_config_name": "Instance Name",
+    "instance_config_name_error": "Please give your instance a Name.",
+
+    "instance_config_channel": "Channel",
+    "instance_config_channel_refresh": "refresh",
+    "instance_config_channel_error": "Please Select a channel.",
+
+    "instance_empty_value": "none",
+
+    "instance_config_host": "Host",
+    "instance_config_host_error": "Please set your server's ip/host.",
+
+    "instance_config_port": "Port",
+    "instance_config_port_error": "Please set your server's port.",
+
+    "instance_config_game": "Game",
+    "instance_config_game_requirements": "Game Type Requirements",
+    "instance_config_game_error": "Please Select a Game.",
+
+    "instance_config_timezone": "Time Zone",
+    "instance_config_timeformat": "Time Format",
+
+    "instance_config_logo": "Logo Link",
+    "instance_config_logo_error": "Please set a valid url.",
+    "instance_config_language": "Language",
+
+    "instance_config_playerlist": "PlayerList enabled.",
+    "instance_config_minimalmode": "Minimal mode enabled.",
+    "instance_config_embed_color": "Embed Color",
+
+    "instance_config_graph": "Graph enabled.",
+    "instance_config_button_clear_graph": "Clear Graph Data",
+
+    "instance_option_start_instance": "Start The Instance",
+    "instance_option_restart_instance": "Restart The Instance",
+    "instance_option_stop_instance": "Stop The Instance",
+
+    "instance_alert_error_unknown": "an unknown error occured.",
+    "instance_alert_error_send_message": "the bot couldn't send the status message :(",
+    "instance_alert_error_edit_message": "the bot couldn't edit status message :(",
+    "instance_alert_error_emojis": "the bot couldn't react (set an emojy) to the status message.",
+
+    "instance_error_unknown": "an unknown error occured.",
+    "instance_error_invalid_channel": "invalid channel id.",
+    "instance_error_invalid_host": "invalid server host.",
+    "instance_error_invalid_port": "invalid server port.",
+    "instance_error_invalid_game_type": "invalid game type.",
+    "instance_error_invalid_edit_error": "could not edit the instance, the bot is not responding.",
+    "instance_error_invalid_instance_name": "invalid instance name.",
+    "instance_error_start": "could not start the instance.",
+    "instance_error_stop": "could not stop the instance.",
+
+    "instance_error_set_instance_name": "set an instance name first.",
+    "instance_error_set_instance_channel": "set the instance channel first.",
+    "instance_error_set_instance_host": "set the server's ip/host first.",
+    "instance_error_set_instance_port": "set the server's port first.",
+    "instance_error_set_instance_game": "set the server's game type first.",
+    "instance_error_set_instance_channel_alredy_used": "this channel is alredy used by another instance.",
+    "instance_error_invalid_logo_link": "invalid logo link.",
+    "instance_error_invalid_optional_config": "invalid optional config.",
+
+
+    "instance_success_unknown": "i don't know what you are tring to do but its a success.",
+    "instance_success_config_set": "server instance config set successfully",
+
+    "instance_success_start": "server instance started successfully",
+    "instance_success_stop": "server instance stopped successfully",
+    "instance_success_cleared": "server instance graph cleared successfully"
+}

@@ -1,0 +1,17 @@
+{
+    "update_text": "Ostatnia Aktualizacja",
+
+    "server_label_name": "Nazwa Serwera",
+    "server_label_direct_connect": "Bezpośrednie Połączenie:",
+    "server_label_game_mode": "Mod Gry",
+    "server_label_game_type": "Gra",
+    "server_label_status": "Status",
+    "server_label_online_players": "Graczy Online",
+    "server_label_peak": "Najwięcej Graczy",
+    "server_label_map": "Mapa",
+
+    "status_initiation": "Uruchamianie Graph",
+    "status_initiation_graph": "Uruchamianie Graph",
+    "status_online": "Online",
+    "status_offline": "Serwer Offline"
+}

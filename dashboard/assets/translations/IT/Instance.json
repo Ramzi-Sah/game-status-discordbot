@@ -1,0 +1,72 @@
+{
+    "instance_title": "Configurazione dell'istanza",
+
+    "instance_config_name": "Nome dell'istanza",
+    "instance_config_name_error": "Per favore, indica un nome per la tua istanza.",
+
+    "instance_config_channel": "Canale",
+    "instance_config_channel_refresh": "aggiorna",
+    "instance_config_channel_error": "Per favore, seleziona un canale.",
+
+    "instance_empty_value": "non selezionato",
+
+    "instance_config_host": "Host",
+    "instance_config_host_error": "Per favore, indica l'indirizzo IP del tuo server.",
+
+    "instance_config_port": "Porta",
+    "instance_config_port_error": "Per favore, indica la porta del tuo server.",
+
+    "instance_config_game": "Gioco",
+    "instance_config_game_requirements": "Requisiti del tipo di gioco",
+    "instance_config_game_error": "Per favore, seleziona un gioco.",
+
+    "instance_config_timezone": "Fuso Orario",
+    "instance_config_timeformat": "Formato dell'orario",
+
+    "instance_config_logo": "Link del logo per l'istanza",
+    "instance_config_logo_error": "Per favore digita un link valido.",
+    "instance_config_language": "Lingua",
+
+    "instance_config_playerlist": "Abilita la lista dei giocatori.",
+    "instance_config_minimalmode": "Abilita la modalità minima.",
+    "instance_config_embed_color": "Colore dell'embed su Discord",
+
+    "instance_config_graph": "Abilita il grafico.",
+    "instance_config_button_clear_graph": "Cancella i dati del grafico",
+
+    "instance_option_start_instance": "Avvia l'istanza",
+    "instance_option_restart_instance": "Riavvia l'istanza",
+    "instance_option_stop_instance": "Ferma l'istanza",
+
+    "instance_alert_error_unknown": "si è verificato un errore sconosciuto.",
+    "instance_alert_error_send_message": "il bot non può inviare il messaggio di stato nel canale indicato (Controlla i ruoli)",
+    "instance_alert_error_edit_message": "il bot non può modificare il messaggio di stato (Controlla i ruoli)",
+    "instance_alert_error_emojis": "il bot non può aggiungere reazioni al messaggio di stato (Controlla i ruoli)",
+
+    "instance_error_unknown": "si è verificato un errore sconosciuto.",
+    "instance_error_invalid_channel": "id del canale non valido.",
+    "instance_error_invalid_host": "ip non valido.",
+    "instance_error_invalid_port": "porta non valida.",
+    "instance_error_invalid_game_type": "gioco non valido.",
+    "instance_error_invalid_edit_error": "non è possibile modificare l'istanza, il bot non sta rispondendo.",
+    "instance_error_invalid_instance_name": "nome dell'istanza non valido.",
+    "instance_error_start": "non è possibile avviare l'istanza.",
+    "instance_error_stop": "non è possibile fermare l'istanza.",
+
+    "instance_error_set_instance_name": "imposta un nome per l'istanza prima.",
+    "instance_error_set_instance_channel": "imposta un canale per l'istanza prima.",
+    "instance_error_set_instance_host": "imposta un indirizzo per l'istanza prima.",
+    "instance_error_set_instance_port": "imposta una porta per l'istanza prima.",
+    "instance_error_set_instance_game": "imposta un gioco per l'istanza prima.",
+    "instance_error_set_instance_channel_alredy_used": "questo canale è già utilizzato da un'altra istanza.",
+    "instance_error_invalid_logo_link": "link del logo non valido.",
+    "instance_error_invalid_optional_config": "configurazione non valida.",
+
+
+    "instance_success_unknown": "non so cosa stai cercando di fare ma ha funzionato.",
+    "instance_success_config_set": "instanza del server configurata con successo!",
+
+    "instance_success_start": "istanza del server avviata con successo",
+    "instance_success_stop": "istanza del server fermata con successo",
+    "instance_success_cleared": "grafico dell'istanza cancellato con successo"
+}

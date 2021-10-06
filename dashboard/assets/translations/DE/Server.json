@@ -1,0 +1,25 @@
+{
+    "instancelist_title": "Instanz Liste",
+    "instancelist_button_create_new": "Instanz hinzufügen",
+    "instancelist_noInstances": "Keine Instanz vorhanden.",
+
+    "instancelist_table_name": "Name",
+    "instancelist_table_id": "ID",
+    "instancelist_table_status": "Status",
+    "instancelist_table_setup": "Konfigurieren",
+    "instancelist_table_action": "Löschen",
+
+    "instancelist_table_status_started": "GESTARTET",
+    "instancelist_table_status_stopped": "GESTOPPT",
+
+    "instancelist_table_action_configure": "Konfigurieren",
+    "instancelist_table_action_delete": "Löschen",
+
+    "errorbar_unkown": "Ein unbekannter Fehler ist aufgetreten",
+    "errorbar_instance_name": "Ungültiger Instanz-Name",
+    "errorbar_invalid_id": "Ungültige Instanz-ID",
+
+    "infobar_unkown": "Ein unbekannter Fehler ist aufgetreten",
+    "infobar_spamm": "Bitte hör auf zu Spammen!",
+    "infobar_max_instances": "Entschuldigung, du habst die maximale Anzahl von Instanzen für diesen Server erreicht."
+}
