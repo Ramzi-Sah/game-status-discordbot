@@ -31,7 +31,7 @@ function print(msg, type = 0, from = "") {
 function printError(err, from = "") {
     // message from
     if (from != "") {
-        from = " (" + from + ")";
+		from = " (" + from + ")";
     };
     
 	console.error(
