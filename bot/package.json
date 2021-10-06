@@ -10,11 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chart.js": "^2.9.4",
     "chartjs-node-canvas": "^3.1.0",
-    "chartjs-plugin-downsample": "^1.1.0",
     "discord.js": "^12.5.1",
-    "discord.js-light": "^3.5.0",
     "dotenv": "^8.2.0",
     "gamedig": "^2.0.27",
     "mysql": "^2.18.1",
